@@ -14,7 +14,7 @@
   
 Below is a mock up of the final website with proper functionality.
   
-  ![mock up](Magenta-Kiss/Develop/assets/images/01-html-css-git-homework-demo.png)
+  ![mock up](/Develop/assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 The original source code for this project can be found [here](https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-FT-05-2022-U-LOLC/-/tree/main/01-HTML-Git-CSS/02-Challenge/Develop)
