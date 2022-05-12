@@ -3,7 +3,7 @@
 ## Description
 
   The objective for this project is to refactor the code for a marketing company's current website, and in doing so this increased the accessibility of the final product. 
-  This was accomplished by removing <div> tags and replacing them with semantic HTML and alt tags. By doing this it allows screen readers to properly function so that a user with disabilities is able to properly expereince the content.
+  This was accomplished by removing div tags and replacing them with semantic HTML and alt tags. By doing this it allows screen readers to properly function so that a user with disabilities is able to properly expereince the content.
   Another objective for this project was to refactor the CSS style sheet to remove redundancies and increase readability. This was accomplished by removing the specificity of some class selectors and ensuring the CSS code followed a similar flow to that of the HTML structure. 
 
 ## Installation
